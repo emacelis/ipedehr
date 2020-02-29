@@ -1,2 +1,2 @@
 # ipedehr
-#school#civilassociation
+#civilassociation
